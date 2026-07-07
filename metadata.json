@@ -1,0 +1,6 @@
+{
+  "name": "Health Tracker - BMI Calculator",
+  "description": "Calculate your Body Mass Index (BMI) instantly, track your health category with an interactive gauge, and discover personalized tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
